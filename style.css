@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+h2 {
+    color: white;
+}
+p {
+    color:gray;
+}
+.button {
+    color:white;
+    background-color: black;
+}
