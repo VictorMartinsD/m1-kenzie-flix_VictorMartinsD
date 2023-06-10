@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="style.css" media="screen" />
     <title>Entrega 2 - CSS</title>
 </head>
 
@@ -15,22 +15,18 @@
         <h1>Quem está assistindo?</h1>
     </header>
     <main>
-        <section class="users" type="inline-block">
+        <div class="users">
             <img src="./img/pink.png" class="img-perfil" alt="Usuário 1" />
-            <p class="username">Aline</p>
-        </section>
-        <section class="users">
             <img src="./img/panda.png" class="img-perfil" alt="Usuário 2" />
-            <p class="username">Pedrinho</p>
-        </section>
-        <section class="users">
             <img src="./img/robot.png" class="img-perfil" alt="Usuário 3" />
-            <p class="username">Júlia</p>
-        </section>
-        <section class="users">
             <img src="./img/plus.png" class="img-perfil" alt="Adicionar perfil" />
+        </div>
+        <div>
+            <p class="username">Aline</p>
+            <p class="username">Pedrinho</p>
+            <p class="username">Júlia</p>
             <p class="username">Adicionar perfil</p>
-        </section>
+        </div>
         <footer>
             <button type="submit" class="button">Gerenciar Perfis</button>
         </footer>

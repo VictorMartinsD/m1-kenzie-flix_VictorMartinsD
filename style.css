@@ -1,5 +1,6 @@
 header, footer {
     text-align: center;
+
 }
 body {
     background-color: black;
@@ -8,7 +9,7 @@ body {
 h1 {
     color: white;
 }
-p {
+.username {
     color:gray;
 }
 .button {
@@ -20,14 +21,35 @@ p {
     height: 26%;
     font-size: 100%;
 }
-section {
-    padding: 0% 13% 0% 15%;
+div {
+    padding: 0% 9% 0% 9%;
     width: 1000px;
+    display: flex;
+    justify-content: space-around;
+
 }
 .img-perfil {
-display:inline-block;
-height: 11%;
-width: 11%;
-border-radius: 3px;
-list-style: none;
+    display:inline-block;
+    height: 11%;
+    width: 11%;
+    border-radius: 3px;
+    list-style: none;
+}
+.users {
+    align-content: space-around;
+    align-content: center;
+}
+.username {
+    align-content: space-around;
+    align-content: center;
+}
+.img-perfil:hover {
+    border: solid 1px white;
+}
+.username:hover {
+    color:white;
+}
+.button:hover {
+    background-color: white;
+    color:black;
 }
