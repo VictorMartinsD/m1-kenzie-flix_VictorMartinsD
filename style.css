@@ -45,13 +45,10 @@ li {
     margin: 0 auto;
     border: solid 1px transparent;
 }
-.users {
-    align-content: space-around;
-}
 .username {
     justify-content: center;
     align-content: center;
-    margin: 0 auto;
+    margin: 10px auto;
 }
 li:hover .img-perfil {
     border: solid 1px white;
