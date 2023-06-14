@@ -1,4 +1,4 @@
-header, footer {
+header {
     text-align: center;
     margin: 0 auto;
     padding: 3vw;
@@ -18,18 +18,14 @@ h1 {
     background-color: black;
     padding: 5px 20px 5px 20px;
     border: solid 1px white;
-    width: 15%;
     height: 26%;
     font-size: 100%;
-}
-div {
-    padding: 0% 9% 0% 9%;   
-    margin: 0 auto;
 }
 ul {
     display: flex;
     justify-content: space-evenly;
     width: 1000px;
+    margin: 0 auto;
 }
 li {
     width: 20%;
@@ -59,4 +55,10 @@ li:hover .username{
 .button:hover {
     background-color: white;
     color:black;
+}
+footer {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3vh;
 }
