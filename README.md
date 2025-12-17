@@ -1,5 +1,9 @@
 # 🎬 M1 - KenzieFlix (Seleção de Perfil)
 
+## 🌐 Demonstração ao vivo
+Confira o resultado final da aplicação:
+👉 [Link para o GitHub Pages](https://victormartinsd.github.io/m1-kenzie-flix_VictorMartinsD/)
+
 ## 📸 Preview
 
 <p align="center">
