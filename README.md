@@ -1,8 +1,8 @@
 # 🎬 M1 - KenzieFlix (Seleção de Perfil)
 
-## 🌐 Demonstração ao vivo
-Confira o resultado final da aplicação:
-👉 [Link para o GitHub Pages](https://victormartinsd.github.io/m1-kenzie-flix_VictorMartinsD/)
+## 🔗 Deploy do Projeto
+Confira a aplicação em execução através do link abaixo:
+👉 [Acessar o Kenzie Flix](https://victormartinsd.github.io/m1-kenzie-flix_VictorMartinsD/)
 
 ## 📸 Preview
 
@@ -49,6 +49,10 @@ A implementação do projeto focou nos seguintes aspectos técnicos:
 ---
 
 # 🇺🇸 M1 - KenzieFlix (Profile Selection)
+
+## 🔗 Project Deploy
+You can view the project online by clicking the link below:
+[Access Kenzie Flix](https://victormartinsd.github.io/m1-kenzie-flix_VictorMartinsD/)
 
 ## 📸 Preview
 
