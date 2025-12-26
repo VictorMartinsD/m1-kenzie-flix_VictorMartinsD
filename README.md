@@ -37,7 +37,7 @@ A implementação do projeto focou nos seguintes aspectos técnicos:
 
 1.  **Clone o Repositório:**
     ```bash
-    git clone [https://github.com/VictorMartinsD/m1-kenzie-flix_VictorMartinsD.git](https://github.com/VictorMartinsD/kenzie-flix.git)
+    git clone [https://github.com/VictorMartinsD/kenzie-flix.git](https://github.com/VictorMartinsD/kenzie-flix.git)
     ```
 2.  **Acesse a Pasta:**
     ```bash
@@ -52,7 +52,7 @@ A implementação do projeto focou nos seguintes aspectos técnicos:
 
 ## 🔗 Project Deploy
 You can view the project online by clicking the link below:
-[Access Kenzie Flix](https://victormartinsd.github.io/m1-kenzie-flix_VictorMartinsD/)
+[Access Kenzie Flix](https://victormartinsd.github.io/kenzie-flix/)
 
 ## 📸 Preview
 
