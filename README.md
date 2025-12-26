@@ -1,8 +1,8 @@
-# 🎬 M1 - KenzieFlix (Seleção de Perfil)
+# 🎬 KenzieFlix (Seleção de Perfil)
 
 ## 🔗 Deploy do Projeto
 Confira a aplicação em execução através do link abaixo:
-👉 [Acessar o Kenzie Flix](https://victormartinsd.github.io/m1-kenzie-flix_VictorMartinsD/)
+👉 [Acessar o Kenzie Flix](https://victormartinsd.github.io/kenzie-flix/)
 
 ## 📸 Preview
 
@@ -37,18 +37,18 @@ A implementação do projeto focou nos seguintes aspectos técnicos:
 
 1.  **Clone o Repositório:**
     ```bash
-    git clone [https://github.com/VictorMartinsD/m1-kenzie-flix_VictorMartinsD.git](https://github.com/VictorMartinsD/m1-kenzie-flix_VictorMartinsD.git)
+    git clone [https://github.com/VictorMartinsD/m1-kenzie-flix_VictorMartinsD.git](https://github.com/VictorMartinsD/kenzie-flix.git)
     ```
 2.  **Acesse a Pasta:**
     ```bash
-    cd m1-kenzie-flix_VictorMartinsD
+    cd kenzie-flix
     ```
 3.  **Abra o `index.html`:** Simplesmente abra o arquivo `index.html` no seu navegador ou use a extensão Live Server do VS Code.
 
 ---
 ---
 
-# 🇺🇸 M1 - KenzieFlix (Profile Selection)
+# 🇺🇸 KenzieFlix (Profile Selection)
 
 ## 🔗 Project Deploy
 You can view the project online by clicking the link below:
@@ -87,10 +87,10 @@ The project implementation focused on the following technical aspects:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/VictorMartinsD/m1-kenzie-flix_VictorMartinsD.git](https://github.com/VictorMartinsD/m1-kenzie-flix_VictorMartinsD.git)
+    git clone [https://github.com/VictorMartinsD/m1-kenzie-flix_VictorMartinsD.git](https://github.com/VictorMartinsD/kenzie-flix.git)
     ```
 2.  **Access the Folder:**
     ```bash
-    cd m1-kenzie-flix_VictorMartinsD
+    cd kenzie-flix
     ```
 3.  **Open `index.html`:** Simply open the `index.html` file in your browser or use the VS Code Live Server extension.
